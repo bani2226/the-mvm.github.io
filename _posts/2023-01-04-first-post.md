@@ -1,3 +1,16 @@
+---
+layout: post
+read_time: true
+show_date: true
+title: "첫번째 블로그 글 작성"
+date: 2023-01-04
+img: posts/20210420/post8-rembrandt.jpg
+tags: [copyright, creativity, neural networks, machine learning, artificial intelligence]
+category: blog
+author: Sang Il Cho
+description: "첫번째 글 작성 성공인가 실패인가?"
+---
+
 # 첫번째 블로그
 
 ----
